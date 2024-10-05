@@ -1,0 +1,7 @@
+Run p1
+Run p2
+Run p3 I=10 D=5
+Run p4 I=12 D=5
+Run p5 I=15 D=20
+Run p6 P=1
+Run p7 P=7
